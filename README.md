@@ -29,8 +29,6 @@ I build things — AI automation tools, interactive web apps, game prototypes, f
 
 🏃 **[Proof of Workout](https://github.com/coleyrockin/POWO)** — Mobile-first Apple Health dashboard. Next.js 16, TypeScript, zero UI libraries.
 
-🌤 **[Weather Dashboard](https://github.com/coleyrockin/Weather-Dashboard)** — Atmospheric weather dashboard with a sense of place. Next.js 16, React 19, layered Canvas + WAAPI scenes. Open-Meteo, iNaturalist, Wikipedia, Vercel AI Gateway.
-
 ---
 
 ### Connect
