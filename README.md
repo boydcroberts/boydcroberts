@@ -10,9 +10,9 @@ Based in Central Texas.
 ### What I Work With
 
 **Languages:** JavaScript, TypeScript, Python, C++, Swift, Java, C#
-**Frontend:** React, Tailwind CSS, Babylon.js, HTML5 Canvas
+**Frontend:** React, Tailwind CSS, Babylon.js, Three.js, HTML5 Canvas
 **Backend:** Node.js, Express, Sequelize, GraphQL
-**Other:** OpenGL/ModernGL, Vite, AWS, GitHub Actions
+**Other:** OpenGL/ModernGL, Vite, AWS, GitHub Actions, Vercel
 
 ---
 
@@ -24,12 +24,14 @@ Based in Central Texas.
 
 🤠 **[WestWard RPG](https://github.com/coleyrockin/WestWardRPG)** — A chaotic first-person western RPG in the browser with raycasting, sword duels, and a pig outlaw posse
 
+🌸 **[Cherry Tree](https://github.com/coleyrockin/CherryTree)** — Scroll-driven cinematic gallery with custom WebGL petal shader, Three.js, GSAP, and Lenis
+
 ---
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=google-chrome&logoColor=white)](https://github.com/coleyrockin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boydcroberts/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=google-chrome&logoColor=white)](https://coleyrockin.github.io/react-portfolio/)
 
 ---
 
