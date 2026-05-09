@@ -37,11 +37,11 @@ I build things — AI automation tools, interactive web apps, game prototypes, f
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=google-chrome&logoColor=white)](https://coleyrockin.github.io/react-portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:boydcroberts@gmail.com)
 
-📍 Austin, TX
+📍 Hill Country, TX and sometimes Western North Carolina.
 💼 [linkedin.com/in/boydcroberts](https://www.linkedin.com/in/boydcroberts/)
 ✉️ [boydcroberts@gmail.com](mailto:boydcroberts@gmail.com)
 🌐 [Portfolio](https://coleyrockin.github.io/react-portfolio/)
 
 ---
 
-*Always building something new.*
+*Always be building something new.*
