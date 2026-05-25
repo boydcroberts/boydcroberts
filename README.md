@@ -44,4 +44,4 @@ I build things — AI automation tools, interactive web apps, game prototypes, f
 
 ---
 
-*Always be building something new.*
+*Always be building something.*
