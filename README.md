@@ -21,11 +21,11 @@ I build things — AI automation tools, interactive web apps, game prototypes, f
 
 🌍 **[World Price Dashboard](https://github.com/coleyrockin/world-asset-prices)** — Real-time top 10 global asset tracker. React + TypeScript + Vite, light/dark mode, sparklines, watchlist, resilient API fallbacks.
 
-♟️ **[Neon City Chess](https://github.com/coleyrockin/Chess-Game)** — Cinematic two-player chess. WebGPU-first browser build (Babylon.js) + desktop OpenGL build (ModernGL + GLSL) + Unreal Engine 5 integration. 150+ tests, CI, fully documented.
+♟️ **[Neon City Chess](https://github.com/coleyrockin/Chess-Game)** — Cinematic browser chess: React 18 + Three.js (WebGL) board, Web Worker AI engine, chess.js rules. Vs-Computer + local 2-player, screen-reader accessible. 279 tests, CI, zero backend.
 
 🌸 **[Cherry Tree](https://github.com/coleyrockin/CherryTree)** — Scroll-driven cinematic gallery with a custom WebGL petal shader. Three.js, GSAP, Lenis.
 
-🏃 **[Proof of Workout](https://github.com/coleyrockin/POWO)** — Mobile-first Apple Health dashboard. Next.js 16, TypeScript, zero UI libraries.
+🏃 **[Proof of Workout](https://github.com/coleyrockin/POWO)** — Fitness Tracking Dashboard using Apple Fitness data & Claude AI.
 
 ---
 
