@@ -19,7 +19,6 @@ I build things — AI automation tools, interactive web apps, game prototypes, f
 
 ### Featured Projects
 
-🌍 **[World Price Dashboard](https://github.com/coleyrockin/world-asset-prices)** — Real-time top 10 global asset tracker. React + TypeScript + Vite, light/dark mode, sparklines, watchlist, resilient API fallbacks.
 
 ♟️ **[Neon City Chess](https://github.com/coleyrockin/Chess-Game)** — Cinematic browser chess: React 18 + Three.js (WebGL) board, Web Worker AI engine, chess.js rules. Vs-Computer + local 2-player, screen-reader accessible. 279 tests, CI, zero backend.
 
