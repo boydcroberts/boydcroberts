@@ -23,8 +23,6 @@ I build things — AI automation tools, interactive web apps, game prototypes, f
 
 ♟️ **[Neon City Chess](https://github.com/coleyrockin/Chess-Game)** — Cinematic two-player chess. WebGPU-first browser build (Babylon.js) + desktop OpenGL build (ModernGL + GLSL) + Unreal Engine 5 integration. 150+ tests, CI, fully documented.
 
-🤠 **[WestWard RPG](https://github.com/coleyrockin/WestWardRPG)** — A chaotic first-person western RPG in the browser. Raycasting, sword duels, slime brawls, and a tiny pig outlaw posse running the town.
-
 🌸 **[Cherry Tree](https://github.com/coleyrockin/CherryTree)** — Scroll-driven cinematic gallery with a custom WebGL petal shader. Three.js, GSAP, Lenis.
 
 🏃 **[Proof of Workout](https://github.com/coleyrockin/POWO)** — Mobile-first Apple Health dashboard. Next.js 16, TypeScript, zero UI libraries.
