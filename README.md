@@ -31,7 +31,6 @@ I build things — AI automation tools, interactive web apps, game prototypes, f
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boydcroberts/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=google-chrome&logoColor=white)](https://coleyrockin.github.io/react-portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:boydcroberts@gmail.com)
 
 
