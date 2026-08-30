@@ -1,10 +1,10 @@
 # Boyd Roberts
 
-Mostly self-taught full-stack developer (SMU bootcamp, Baylor certification), with a lot of recent work built alongside AI tools.
+Mostly self-taught full-stack developer (SMU bootcamp, Baylor certification), with a lot of recent work built alongside AI tools (combination of all of them).
 
-Currently enrolled at Texas Tech and building in the background. I'm a perfectionist about what I ship, so most of what's here is in progress or getting reworked. Treat the repos as sketches, not finished work.
+Currently enrolled at Texas Tech University and building in the background. I have 10 to 15 projects lined up that I'm excited about, so most of what's here is in progress or getting reworked. Treat the repos as sketches, not finished work.
 
-**Stack:** JavaScript/TypeScript, Python, React, Next.js, Three.js, Node.js. 
+**Stack:** JavaScript/TypeScript, Python, React, Next.js, Three.js, Node.js. Goal is a project in nearly every major language.
 
 **Contact:** [linkedin.com/in/boydcroberts](https://www.linkedin.com/in/boydcroberts/) · boydcroberts@gmail.com
 
