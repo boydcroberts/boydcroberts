@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+# Boyd Roberts
+
+Mostly self-taught full-stack developer (SMU bootcamp, Baylor certification), with a lot of recent work built alongside AI tools, usually a mix of several at once.
+
+**Stack:** JavaScript/TypeScript, Python, React, Next.js, Three.js, Node.js. Goal is a project in nearly every major language.
+
+**Contact:** · brooch_eyelets.2d@icloud.com
+
+*Always be building something.*
+
 <!--
 **boydcroberts/boydcroberts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
